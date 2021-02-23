@@ -7,12 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E2D9856250D4229000A1069 /* OBEYFROG.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2D9855250D4229000A1069 /* OBEYFROG.swift */; };
 		4EFE0BB5250AEAA600BBC627 /* WaveAnimationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFE0BB4250AEAA600BBC627 /* WaveAnimationApp.swift */; };
 		4EFE0BB7250AEAA600BBC627 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFE0BB6250AEAA600BBC627 /* ContentView.swift */; };
 		4EFE0BB9250AEAA800BBC627 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EFE0BB8250AEAA800BBC627 /* Assets.xcassets */; };
 		4EFE0BBC250AEAA800BBC627 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EFE0BBB250AEAA800BBC627 /* Preview Assets.xcassets */; };
 		4EFE0BC7250AEAA800BBC627 /* WaveAnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFE0BC6250AEAA800BBC627 /* WaveAnimationTests.swift */; };
 		4EFE0BD2250AEAA800BBC627 /* WaveAnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFE0BD1250AEAA800BBC627 /* WaveAnimationUITests.swift */; };
+		4EFE0BE0250AEAC000BBC627 /* SomeWeirdWavemation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFE0BDF250AEAC000BBC627 /* SomeWeirdWavemation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4E2D9855250D4229000A1069 /* OBEYFROG.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OBEYFROG.swift; sourceTree = "<group>"; };
 		4EFE0BB1250AEAA600BBC627 /* WaveAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WaveAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EFE0BB4250AEAA600BBC627 /* WaveAnimationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaveAnimationApp.swift; sourceTree = "<group>"; };
 		4EFE0BB6250AEAA600BBC627 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +48,7 @@
 		4EFE0BCD250AEAA800BBC627 /* WaveAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WaveAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EFE0BD1250AEAA800BBC627 /* WaveAnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaveAnimationUITests.swift; sourceTree = "<group>"; };
 		4EFE0BD3250AEAA800BBC627 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EFE0BDF250AEAC000BBC627 /* SomeWeirdWavemation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomeWeirdWavemation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 			children = (
 				4EFE0BB4250AEAA600BBC627 /* WaveAnimationApp.swift */,
 				4EFE0BB6250AEAA600BBC627 /* ContentView.swift */,
+				4EFE0BDF250AEAC000BBC627 /* SomeWeirdWavemation.swift */,
+				4E2D9855250D4229000A1069 /* OBEYFROG.swift */,
 				4EFE0BB8250AEAA800BBC627 /* Assets.xcassets */,
 				4EFE0BBD250AEAA800BBC627 /* Info.plist */,
 				4EFE0BBA250AEAA800BBC627 /* Preview Content */,
@@ -259,7 +265,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EFE0BE0250AEAC000BBC627 /* SomeWeirdWavemation.swift in Sources */,
 				4EFE0BB7250AEAA600BBC627 /* ContentView.swift in Sources */,
+				4E2D9856250D4229000A1069 /* OBEYFROG.swift in Sources */,
 				4EFE0BB5250AEAA600BBC627 /* WaveAnimationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
